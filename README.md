@@ -163,3 +163,9 @@ It **fully satisfies the project objective** and is suitable for:
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+- ---
+
+## 👩‍💻 Author
+
+Tehmina Afzal
+AI & Data Science Intern –ITSOLERA PVT LTD.
